@@ -1,0 +1,7 @@
+C:\CSharp\CSharpRepo\FileDownload\FileReadTool\bin\Debug\FileReadTool.exe.config
+C:\CSharp\CSharpRepo\FileDownload\FileReadTool\bin\Debug\FileReadTool.exe
+C:\CSharp\CSharpRepo\FileDownload\FileReadTool\bin\Debug\FileReadTool.pdb
+C:\CSharp\CSharpRepo\FileDownload\FileReadTool\obj\Debug\FileReadTool.csproj.AssemblyReference.cache
+C:\CSharp\CSharpRepo\FileDownload\FileReadTool\obj\Debug\FileReadTool.csproj.CoreCompileInputs.cache
+C:\CSharp\CSharpRepo\FileDownload\FileReadTool\obj\Debug\FileReadTool.exe
+C:\CSharp\CSharpRepo\FileDownload\FileReadTool\obj\Debug\FileReadTool.pdb

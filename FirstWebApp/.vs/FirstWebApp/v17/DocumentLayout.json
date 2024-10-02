@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|c:\\csharp\\csharprepo\\firstwebapp\\controllers\\mvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|solutionrelative:controllers\\mvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|c:\\csharp\\csharprepo\\firstwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|c:\\csharp\\csharprepo\\firstwebapp\\views\\mvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|solutionrelative:views\\mvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|c:\\csharp\\csharprepo\\firstwebapp\\views\\home\\mis2000lab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|solutionrelative:views\\home\\mis2000lab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|c:\\csharp\\csharprepo\\firstwebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|c:\\csharp\\csharprepo\\firstwebapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|c:\\csharp\\csharprepo\\firstwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBF1438A-1555-429A-85A6-D9446296B048}|FirstWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\MVC\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MVC\\Index.cshtml",
+              "ToolTip": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\MVC\\Index.cshtml",
+              "RelativeToolTip": "Views\\MVC\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T08:04:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MVCController.cs",
+              "DocumentMoniker": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Controllers\\MVCController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MVCController.cs",
+              "ToolTip": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Controllers\\MVCController.cs",
+              "RelativeToolTip": "Controllers\\MVCController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:02:54.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mis2000lab.cshtml",
+              "DocumentMoniker": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\Home\\mis2000lab.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\mis2000lab.cshtml",
+              "ToolTip": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\Home\\mis2000lab.cshtml",
+              "RelativeToolTip": "Views\\Home\\mis2000lab.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T07:51:11.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:39:18.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T06:34:03.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T06:33:49.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CSharp\\CSharpRepo\\FirstWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T06:31:49.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

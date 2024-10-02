@@ -1,0 +1,7 @@
+C:\CSharp\CSharpRepo\FileDownload\ConsoleApp4\bin\Debug\MoveFilesTool.exe.config
+C:\CSharp\CSharpRepo\FileDownload\ConsoleApp4\bin\Debug\MoveFilesTool.exe
+C:\CSharp\CSharpRepo\FileDownload\ConsoleApp4\bin\Debug\MoveFilesTool.pdb
+C:\CSharp\CSharpRepo\FileDownload\ConsoleApp4\obj\Debug\MoveFilesTool.csproj.AssemblyReference.cache
+C:\CSharp\CSharpRepo\FileDownload\ConsoleApp4\obj\Debug\MoveFilesTool.csproj.CoreCompileInputs.cache
+C:\CSharp\CSharpRepo\FileDownload\ConsoleApp4\obj\Debug\MoveFilesTool.exe
+C:\CSharp\CSharpRepo\FileDownload\ConsoleApp4\obj\Debug\MoveFilesTool.pdb
